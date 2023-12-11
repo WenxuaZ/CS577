@@ -1,0 +1,4 @@
+opencv-python
+segmentation_models_pytorch
+albumentations
+torchmetrics
